@@ -1,0 +1,25 @@
+{
+  "name": "typescript-aulas",
+  "version": "1.0.0",
+  "description": "Repositório criado com intuito de adicionar as atividades de TypeScript proposto pela DIO no Bootcamp Unimed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaomendesz/Atividade-TypeScript-DIO-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaomendesz/Atividade-TypeScript-DIO-/issues"
+  },
+  "homepage": "https://github.com/joaomendesz/Atividade-TypeScript-DIO-#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
